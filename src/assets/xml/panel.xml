@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+	name （对应程序中的类名，它资源名就是name+"Res"）
+	des 面板说明
+	depth 面板层级 （TOP MID BOTTOM 默认MID）
+-->
+	<panel name="LoginPanel" des="登入面板" depth="MID"/>
+	<panel name="CreateRolePanel" des="选择面板" depth="MID"/>
+	<panel name="MainPanel" des="主面板" depth="MID"/>
+	<panel name="AboutPanel" des="关于面板" depth="MID"/>
+	<panel name="SkillPanel" des="技能面板" depth="MID"/>
+	
+	
+</root>
